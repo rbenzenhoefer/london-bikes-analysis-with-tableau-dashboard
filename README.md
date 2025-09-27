@@ -24,7 +24,7 @@ Comprehensive analysis of London bike sharing data using Python for data cleanin
 ## Tableau Dashboard
 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/shared/KW2WYGXGX?:display_count=n&:origin=viz_share_link)**
 
-![Dashboard Preview](dashboard screenshot.png)
+![Dashboard Preview](dashboard_screenshot.png)
 
 ## How to Run
 1. Clone the repository
